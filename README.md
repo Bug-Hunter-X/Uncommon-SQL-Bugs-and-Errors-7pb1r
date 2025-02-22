@@ -1,0 +1,1 @@
+This repository contains examples of uncommon SQL errors and their solutions.  The examples cover data type mismatches, problems with JOIN operations, issues related to NULL values, and preventing SQL injection vulnerabilities. The goal is to improve understanding of these errors and how to avoid them.  Each file shows a problematic query and its corrected version.
